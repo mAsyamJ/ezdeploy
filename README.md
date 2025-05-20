@@ -18,6 +18,7 @@ Without democratizing smart contract deployment, Web3 risks leaving **trillions 
 - Cut initial development costs by **up to 90%**  
 - Enables non-devs (e.g., a coffee farmer) to tokenize assets without writing code  
 - Real-world example: [ERC-20 token deployed via EzDeploy](https://sepolia.etherscan.io/address/0xF57233D6cD049045551596c27f4bb1cc72Faaf86#code)
+                      [ERC-20 token deployed to Base](https://basescan.org/address/0x2345678901234567890123456789012345678901#nfttransfers)
 
 ### 🤖 AI-Guided Customization (powered by Ohara AI)  
 - Convert natural language like “Make a token with 5% tax” into optimized Solidity  
@@ -40,6 +41,7 @@ Without democratizing smart contract deployment, Web3 risks leaving **trillions 
 5. After deployment, go to the **Dashboard** to monitor your contract.  
 6. View contract live on-chain:  
    👉 [Etherscan Example](https://sepolia.etherscan.io/address/0xF57233D6cD049045551596c27f4bb1cc72Faaf86#code)
+   👉 [Basescan Example](https://basescan.org/address/0x2345678901234567890123456789012345678901#nfttransfers) 
 
 ---
 
